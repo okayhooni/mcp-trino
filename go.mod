@@ -3,9 +3,9 @@ module github.com/tuannvm/mcp-trino
 go 1.24.2
 
 require (
-	github.com/mark3labs/mcp-go v0.41.1
+	github.com/mark3labs/mcp-go v0.42.0
 	github.com/trinodb/trino-go-client v0.328.0
-	github.com/tuannvm/oauth-mcp-proxy v0.0.4
+	github.com/tuannvm/oauth-mcp-proxy v1.0.0
 )
 
 require (
